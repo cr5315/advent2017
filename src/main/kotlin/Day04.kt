@@ -1,4 +1,4 @@
-object DayFour {
+object Day04 {
 
     fun partOne(input: String): Int {
         return input.lines().map { it.split(" ") }

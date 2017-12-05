@@ -1,4 +1,4 @@
-object DayThree {
+object Day03 {
 
     fun partOne(input: Int): Int {
         // Just maths

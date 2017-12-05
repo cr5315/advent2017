@@ -1,4 +1,4 @@
-object DayTwo {
+object Day02 {
 
     // Part 1
     fun checksum(input: String): Int {

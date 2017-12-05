@@ -1,4 +1,4 @@
-object DayOne {
+object Day01 {
     // Shamefully stolen from Dan Lew's repo because I couldn't brain
 
     fun sum(input: String): Int {
